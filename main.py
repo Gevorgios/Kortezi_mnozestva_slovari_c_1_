@@ -49,7 +49,3 @@
 #
 # common_elements_at_same_position = find_common_elements_at_same_position(tuple1, tuple2, tuple3)
 
-if common_elements_at_same_position:
-    print("Элементы, которые есть в каждом кортеже и находятся на той же позиции:", common_elements_at_same_position)
-else:
-    print("Нет элементов, которые есть в каждом кортеже и находятся на той же позиции.")
